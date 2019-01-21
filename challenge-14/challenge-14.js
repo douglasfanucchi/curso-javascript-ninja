@@ -82,8 +82,6 @@ console.log(inversedName);
 Mostre no console o array `numberObjects`.
 */
 console.log( '\nNumber objects' );
-console.log(numberObjects.indexOf( {number: 2} ));
-// numberObjects.splice( , 3 );
 console.log(numberObjects);
 
 /*
